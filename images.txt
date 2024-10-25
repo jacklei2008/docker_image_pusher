@@ -1,5 +1,5 @@
-redis:latest
-corentinth/it-tools:latest
-jason5ng32/myip:latest
-vaultwarden/server:latest
---platform=linux_amd64 zhx47/jd_h5st_server
+#redis:latest
+#corentinth/it-tools:latest
+#jason5ng32/myip:latest
+#vaultwarden/server:latest
+--platform=liunx/amd64 zhx47/jd_h5st_server
